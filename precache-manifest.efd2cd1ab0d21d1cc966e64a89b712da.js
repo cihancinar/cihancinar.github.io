@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "538718bd71dffea917277d158b809167",
+    "revision": "065db3b791f8f879927240ee8c649409",
     "url": "/index.html"
   },
   {
-    "revision": "dc9f3e6e832f5c3caedd",
-    "url": "/static/css/main.623a33a7.chunk.css"
+    "revision": "ea17dceef75ab8fb0f86",
+    "url": "/static/css/main.45c2f0b5.chunk.css"
   },
   {
-    "revision": "4521a9d863a812a6ca8b",
-    "url": "/static/js/2.f50814c7.chunk.js"
+    "revision": "1905cb5f55d1249312f3",
+    "url": "/static/js/2.c9f0ba96.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.f50814c7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c9f0ba96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc9f3e6e832f5c3caedd",
-    "url": "/static/js/main.3684e92e.chunk.js"
+    "revision": "ea17dceef75ab8fb0f86",
+    "url": "/static/js/main.f7e8d2ab.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/static/js/main.3684e92e.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.f7e8d2ab.chunk.js.LICENSE.txt"
   },
   {
     "revision": "719c09d18e5241a6d524",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dfbf459c7e39ae2e0077b8fa4dc04411",
     "url": "/static/media/antoine-barres.dfbf459c.jpg"
-  },
-  {
-    "revision": "4c5dc2241db2910ee316858638d0dfa3",
-    "url": "/static/media/avatar.4c5dc224.png"
   },
   {
     "revision": "61c4e0007254eb55e4691291881a4bfb",
