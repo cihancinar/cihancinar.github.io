@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.623a33a7.chunk.css",
+    "main.js": "/static/js/main.3684e92e.chunk.js",
+    "main.js.map": "/static/js/main.3684e92e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5690982f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5690982f.js.map",
+    "static/js/2.f50814c7.chunk.js": "/static/js/2.f50814c7.chunk.js",
+    "static/js/2.f50814c7.chunk.js.map": "/static/js/2.f50814c7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.011bdd7090a41e686e49953c71cd936d.js": "/precache-manifest.011bdd7090a41e686e49953c71cd936d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.623a33a7.chunk.css.map": "/static/css/main.623a33a7.chunk.css.map",
+    "static/js/2.f50814c7.chunk.js.LICENSE.txt": "/static/js/2.f50814c7.chunk.js.LICENSE.txt",
+    "static/js/main.3684e92e.chunk.js.LICENSE.txt": "/static/js/main.3684e92e.chunk.js.LICENSE.txt",
+    "static/media/Resume_Cihan-CINAR_Senior-SE.pdf": "/static/media/Resume_Cihan-CINAR_Senior-SE.34c74b21.pdf",
+    "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
+    "static/media/avatar.png": "/static/media/avatar.4c5dc224.png",
+    "static/media/clouds.png": "/static/media/clouds.61c4e000.png",
+    "static/media/ewl.PNG": "/static/media/ewl.6f29e095.PNG",
+    "static/media/fabio-mangione.jpg": "/static/media/fabio-mangione.f26c34bb.jpg",
+    "static/media/fog-low.png": "/static/media/fog-low.7812184c.png",
+    "static/media/liris.jpg": "/static/media/liris.bca2f909.jpg",
+    "static/media/paper-kit.scss?v=1.2.0": "/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/vcard.png": "/static/media/vcard.86d123b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5690982f.js",
+    "static/js/2.f50814c7.chunk.js",
+    "static/css/main.623a33a7.chunk.css",
+    "static/js/main.3684e92e.chunk.js"
+  ]
+}
