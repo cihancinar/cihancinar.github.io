@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0513288a5df4f3fab713ad79fcbeac1b",
+    "revision": "05036fc2fa3cdbe323fe6b6c5d5570c8",
     "url": "/index.html"
   },
   {
-    "revision": "8f5762a0b7af17641726",
+    "revision": "f0efa04647103a2fca8f",
     "url": "/static/css/main.3da94add.chunk.css"
   },
   {
-    "revision": "85480929c2ed09622c87",
-    "url": "/static/js/2.9bee2b1a.chunk.js"
+    "revision": "2735ab06c97af44d5dd4",
+    "url": "/static/js/2.6fab739e.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.9bee2b1a.chunk.js.LICENSE.txt"
+    "revision": "1c444b1a0550833bb8e9c87ea650dbf4",
+    "url": "/static/js/2.6fab739e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f5762a0b7af17641726",
-    "url": "/static/js/main.8d79b4fe.chunk.js"
+    "revision": "f0efa04647103a2fca8f",
+    "url": "/static/js/main.1e431226.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/static/js/main.8d79b4fe.chunk.js.LICENSE.txt"
+    "url": "/static/js/main.1e431226.chunk.js.LICENSE.txt"
   },
   {
     "revision": "719c09d18e5241a6d524",
@@ -246,9 +246,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fe3a7838dddb1fbf6901af17ca246ea1",
     "url": "/static/media/uriel-soberanes.fe3a7838.jpg"
-  },
-  {
-    "revision": "86d123b294c2209df986cadc5f684450",
-    "url": "/static/media/vcard.86d123b2.png"
   }
 ]);

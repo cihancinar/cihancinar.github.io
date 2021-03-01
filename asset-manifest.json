@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.3da94add.chunk.css",
-    "main.js": "/static/js/main.8d79b4fe.chunk.js",
-    "main.js.map": "/static/js/main.8d79b4fe.chunk.js.map",
+    "main.js": "/static/js/main.1e431226.chunk.js",
+    "main.js.map": "/static/js/main.1e431226.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5690982f.js",
     "runtime-main.js.map": "/static/js/runtime-main.5690982f.js.map",
-    "static/js/2.9bee2b1a.chunk.js": "/static/js/2.9bee2b1a.chunk.js",
-    "static/js/2.9bee2b1a.chunk.js.map": "/static/js/2.9bee2b1a.chunk.js.map",
+    "static/js/2.6fab739e.chunk.js": "/static/js/2.6fab739e.chunk.js",
+    "static/js/2.6fab739e.chunk.js.map": "/static/js/2.6fab739e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.db58ea36bf835fc1d592e952ae32c100.js": "/precache-manifest.db58ea36bf835fc1d592e952ae32c100.js",
+    "precache-manifest.11c941c6e91393af1753e2779c1c069a.js": "/precache-manifest.11c941c6e91393af1753e2779c1c069a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3da94add.chunk.css.map": "/static/css/main.3da94add.chunk.css.map",
-    "static/js/2.9bee2b1a.chunk.js.LICENSE.txt": "/static/js/2.9bee2b1a.chunk.js.LICENSE.txt",
-    "static/js/main.8d79b4fe.chunk.js.LICENSE.txt": "/static/js/main.8d79b4fe.chunk.js.LICENSE.txt",
+    "static/js/2.6fab739e.chunk.js.LICENSE.txt": "/static/js/2.6fab739e.chunk.js.LICENSE.txt",
+    "static/js/main.1e431226.chunk.js.LICENSE.txt": "/static/js/main.1e431226.chunk.js.LICENSE.txt",
     "static/media/Resume_Cihan-CINAR_Senior-SE.pdf": "/static/media/Resume_Cihan-CINAR_Senior-SE.8692fa5c.pdf",
     "static/media/antoine-barresold.jpg": "/static/media/antoine-barresold.dfbf459c.jpg",
     "static/media/apigee.png": "/static/media/apigee.aad391ab.png",
@@ -64,13 +64,12 @@
     "static/media/spring.png": "/static/media/spring.7e8db945.png",
     "static/media/top0.jpg": "/static/media/top0.ce94bbf3.jpg",
     "static/media/top1.jpg": "/static/media/top1.df5e0752.jpg",
-    "static/media/uriel-soberanes.jpg": "/static/media/uriel-soberanes.fe3a7838.jpg",
-    "static/media/vcard.png": "/static/media/vcard.86d123b2.png"
+    "static/media/uriel-soberanes.jpg": "/static/media/uriel-soberanes.fe3a7838.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5690982f.js",
-    "static/js/2.9bee2b1a.chunk.js",
+    "static/js/2.6fab739e.chunk.js",
     "static/css/main.3da94add.chunk.css",
-    "static/js/main.8d79b4fe.chunk.js"
+    "static/js/main.1e431226.chunk.js"
   ]
 }
